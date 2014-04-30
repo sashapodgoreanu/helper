@@ -3,6 +3,7 @@
 <%@ page import="javax.servlet.http.*,javax.servlet.*" %>
 <% ssssssssssssssssss
 jjjjjjjjjjjjjjjjjjjjjjjjjjj
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
    String result;
    // Recipient's email ID needs to be mentioned.
    String to = "p.alxzeta@gmail.com";
