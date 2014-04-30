@@ -1,7 +1,7 @@
 <%@ page import="java.io.*,java.util.*,javax.mail.*"%>
 <%@ page import="javax.mail.internet.*,javax.activation.*"%>
 <%@ page import="javax.servlet.http.*,javax.servlet.*" %>
-<%
+<% ssssssssssssssssss
    String result;
    // Recipient's email ID needs to be mentioned.
    String to = "p.alxzeta@gmail.com";
